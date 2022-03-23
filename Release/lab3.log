@@ -1,0 +1,8 @@
+﻿  lab3.cpp
+D:\4 курс\Параллельное программирование\lab3\lab3.cpp(23,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  5 of 14 functions (35.7%) were compiled, the rest were copied from previous compilation.
+    4 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  lab3.vcxproj -> D:\4 курс\Параллельное программирование\lab3\Release\lab3.exe
